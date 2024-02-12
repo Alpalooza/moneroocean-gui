@@ -1,4 +1,4 @@
-/* very simple monero miner for the webminerpool server */
+
 
 var server = "wss://webminer.moneroocean.stream:443/"
 
